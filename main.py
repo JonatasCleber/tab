@@ -22,6 +22,6 @@ while True:
     if sair == 'n':
     	break
     elif sair == 's':
-    	continuar
-imprimir ( "pix: jonatascleber123@gmail.com" )
-imprimir ( "volte sempre!")
+    	continue
+print ( "pix: jonatascleber123@gmail.com" )
+print ( "volte sempre!")
